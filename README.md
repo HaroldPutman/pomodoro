@@ -1,0 +1,4 @@
+pomodoro
+========
+
+Simple Pomodoro timer
